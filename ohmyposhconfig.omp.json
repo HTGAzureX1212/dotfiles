@@ -20,7 +20,7 @@
           "properties": {
             "folder_separator_icon": " \ue0b1 ",
             "home_icon": "~",
-            "style": "folder"
+            "style": "agnoster_left"
           },
           "style": "powerline",
           "template": " \uea83  {{ .Path }} ",
